@@ -12,7 +12,9 @@
   :author "Nicolas Hafner <shinmera@tymoon.eu>"
   :maintainer "Nicolas Hafner <shinmera@tymoon.eu>"
   :description "Conspack storage support for the Plump DOM."
-  :homepage "https://github.com/Shinmera/plump-conspack"
+  :homepage "https://Shinmera.github.io/plump-conspack/"
+  :bug-tracker "https://github.com/Shinmera/plump-conspack/issues"
+  :source-control (:git "https://github.com/Shinmera/plump-conspack.git")
   :serial T
   :components ((:file "plump-conspack"))
   :depends-on (:plump :cl-conspack :closer-mop))
